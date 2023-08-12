@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{3DFBE0A2-6A0E-49FD-A9F6-CED9B7C1CE82}|Default">
+  <MonoDevelop.Ide.ItemProperties.ProductManagementAPI PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/ProductsController.cs">
+    <Files>
+      <File FileName="Models/product.cs" Line="3" Column="1" />
+      <File FileName="Controllers/ProductsController.cs" Line="43" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProductManagementAPI" expanded="True">
+            <Node name="ProductManagementAPI">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
